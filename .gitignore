@@ -1,0 +1,22 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Rcpp / compiled objects
+*.o
+*.so
+*.dll
+*.dylib
+
+# Large outputs
+*.rds
+
+# OS junk
+.DS_Store
+Thumbs.db
