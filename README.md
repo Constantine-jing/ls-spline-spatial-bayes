@@ -1,2 +1,5 @@
-# ls-spline-spatial-bayes
-Bayesian spatial additive regression with Lancaster–Šalkauskas splines and a Matérn GP random effect (R + Rcpp). Code for the JRSS-C paper.
+# Bayesian Spatial Additive Regression with Lancaster–Šalkauskas Splines and Matérn Gaussian Process Random Effects
+
+Mengyan Jing and Sounak Chakraborty, University of Missouri
+
+Code accompanying the JRSS-C paper. Under construction.
