@@ -1,14 +1,10 @@
 # R session files
-.Rhistory
-.RData
-.Ruserdata
-.Rproj.user/
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-# Rcpp / compiled objects
+# Compiled objects (Rcpp)
 *.o
 *.so
 *.dll
@@ -17,6 +13,12 @@
 # Large outputs
 *.rds
 
-# OS junk
+# Toy example output
+toy/toy_plots.pdf
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Private notes
+dependency_map.md
